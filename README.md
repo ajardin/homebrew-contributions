@@ -1,2 +1,3 @@
-# homebrew-contributions
-Homebrew formula for https://github.com/ajardin/contributions
+# My Homebrew formulas
+
+* [Homebrew formula](Formula/git-contribs.rb) for https://github.com/ajardin/git-contribs.
