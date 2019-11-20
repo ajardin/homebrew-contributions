@@ -1,8 +1,8 @@
 class Origami < Formula
   desc "A PHP toolbox to manage local Docker environments."
   homepage "https://github.com/ajardin/origami"
-  url "https://github.com/ajardin/origami/releases/download/v0.2.1/origami.phar"
-  sha256 "c1e91d8e03e81eb8caf394e42d4995e883e66b5a76179073984df8354989f52c"
+  url "https://github.com/ajardin/origami/releases/download/v0.2.2/origami.phar"
+  sha256 "414e4e6e49bdc24b45395b785d364ef114791f861d1b2c4eebe27ca01e2a9a6f"
 
   def install
     mv "origami.phar", "origami"
